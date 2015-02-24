@@ -1,0 +1,217 @@
+reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers" reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "cluster5", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "cluster5", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "cluster4", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "cluster3", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"reset
+set size ratio 2
+unset key
+set title "CURE"
+plot "cluster0", "cluster1", "cluster2", "outliers"
